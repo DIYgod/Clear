@@ -1,0 +1,33 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, input, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+* { margin: 0; padding: 0; }
+
+a, a img { text-decoration: none; outline: none; border: none; }
+a:hover { text-decoration: none; }
+img { border: 0; vertical-align: top; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: normal; line-height: normal; }
+
+form { display: inline; }
+fieldset { border: 0; }
+legend { display: none; }
+
+address, caption, cite, code, dfn, em, th, var { font-weight: normal; }
+em { font-style: italic; }
+q, blockquote { quotes: none; }
+q:before, q:after { content: ''; }
+strong { font-weight: bold; }
+small { font-size: .92em; }
+big { font-size: 1.1em; }
+sup { font-size: 1em; vertical-align: top; }
+
+ul,ol { list-style: none; }
