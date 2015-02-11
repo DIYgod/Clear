@@ -3,7 +3,7 @@
  * @package Cleanr
  * @author aofall
  * @version 0.1.2
- * @link http://blog.youngall.ml/index.php/clear.html
+ * @link https://github.com/DIYgod/Clear
  */
  
  $this->need('header.php');
