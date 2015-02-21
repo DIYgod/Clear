@@ -37,3 +37,7 @@
 主题的原作者Deef，他的域名过期了暂时无法联系到他，那么我就遵守GPL协议将他开源
 
 他的原域名`yydd.be`
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DIYgod/clear/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
